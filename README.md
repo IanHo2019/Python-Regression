@@ -9,3 +9,6 @@ This data set corresponds to Problem C2 in Chapter 6 of Wooldridge's *Introducto
 
 ## pntsprd.dta
 This file contains data about Vegas betting. The complete variable list is [here](http://fmwww.bc.edu/ec-p/data/wooldridge/pntsprd.des). For example, *favwin* is equal to 1 if the favored team won and zero otherwise, and *spread* holds the betting spread. In this context, a spread is the number of points that the favored team must beat the unfavored team by in order to be counted as a win by the favored team.
+
+## apple.dta
+The data dictionary for this file can be found [here](http://fmwww.bc.edu/ec-p/data/wooldridge/apple.des). The variable *ecolbs* is purchases of eco-friendly apples.
